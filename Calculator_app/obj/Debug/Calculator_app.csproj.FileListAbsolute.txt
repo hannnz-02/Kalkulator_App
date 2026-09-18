@@ -1,0 +1,10 @@
+D:\PBKK_Activity\Calculator_app\obj\Debug\Calculator_app.csproj.AssemblyReference.cache
+D:\PBKK_Activity\Calculator_app\obj\Debug\Calculator_app.Form1.resources
+D:\PBKK_Activity\Calculator_app\obj\Debug\Calculator_app.Properties.Resources.resources
+D:\PBKK_Activity\Calculator_app\obj\Debug\Calculator_app.csproj.GenerateResource.cache
+D:\PBKK_Activity\Calculator_app\obj\Debug\Calculator_app.csproj.CoreCompileInputs.cache
+D:\PBKK_Activity\Calculator_app\bin\Debug\Calculator_app.exe.config
+D:\PBKK_Activity\Calculator_app\bin\Debug\Calculator_app.exe
+D:\PBKK_Activity\Calculator_app\bin\Debug\Calculator_app.pdb
+D:\PBKK_Activity\Calculator_app\obj\Debug\Calculator_app.exe
+D:\PBKK_Activity\Calculator_app\obj\Debug\Calculator_app.pdb
