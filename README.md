@@ -1,7 +1,10 @@
-# Kalkulator_App
+<img width="336" height="417" alt="image" src="https://github.com/user-attachments/assets/5a5789bc-454e-4c68-b921-24442efa4d37" /># Kalkulator_App
 Nama  : Hidayah Nur Septiani <br>
 NRP   : 5025241247 <br>
 Kelas : PBKK C <br>
 <br>
 <img width="336" height="417" alt="image" src="https://github.com/user-attachments/assets/e10e29bd-8773-4c36-833a-852f9574b212" />
+<br>
+https://github.com/user-attachments/assets/79746d12-e891-435f-a159-f7cc8659b93c <br>
+
 
