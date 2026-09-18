@@ -2,4 +2,5 @@
 Nama  : Hidayah Nur Septiani <br>
 NRP   : 5025241247 <br>
 Kelas : PBKK C <br>
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7f692c85-e099-4acf-8798-9442261ef7bd" />
+<img width="336" height="417" alt="image" src="https://github.com/user-attachments/assets/e10e29bd-8773-4c36-833a-852f9574b212" />
+
