@@ -39,7 +39,9 @@ file ini berisi konfigurasi UI yang secara otomatis dikelola oleh Visual Studio,
 file ini adalah kanvas interaktif untuk merancang UI aplikasi, yang dimana kita bisa drag and drop button, textbox, label dan masih banyak lagi. Ketika terdapat button atau kotak teks di kanvas jendela properties akan menampilkan pengaturannya seperti warna background, size, font dan lain-lain.<br>
 
 # Fitur Aplikasi<br>
-- **Operasi Aritmatika:** Penjumlahan (+), Pengurangan (-), Perkalian (*), dan Pembagian (/).
-- **Bilangan Desimal (Koma):** Mendukung perhitungan pecahan dengan tombol koma/titik.
+- **Operasi Aritmatika:** Penjumlahan (+), Pengurangan (-), Perkalian (X), dan Pembagian (/).
+- **Bilangan Desimal (,):** Mendukung perhitungan pecahan dengan tombol koma/titik.
 - **Eksekusi Hasil (=):** Menghitung total operasi matematika secara instan.
 - **Reset/Clear:** Membersihkan tampilan dan mereset memori perhitungan kembali ke awal.
+- **Plus/Minus (+/-):** Mengubah bilangan menjadi positif atau negatif.
+- **Backspace (<):** Menghapus angka digit demi digit dari sisi kanan.
